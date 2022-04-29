@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Lycée Hassan Ibn Tabit",
+    "title": "Les échos  du lycée Hassan Bnou Tabit",
     "description": "",
     "home_page_url": "https://lycee-hassanibntabit.ml",
     "feed_url": "https://lycee-hassanibntabit.ml/feed.json",
@@ -9,35 +9,5 @@
         "name": "Anas Matrouf"
     },
     "items": [
-        {
-            "id": "https://lycee-hassanibntabit.ml/nzm-ndy-ltrby-aal~-lmwtn-blmwss-lq-thsysy-wwrsht-hwl-mwdwaa-laanf-llktrwny/",
-            "url": "https://lycee-hassanibntabit.ml/nzm-ndy-ltrby-aal~-lmwtn-blmwss-lq-thsysy-wwrsht-hwl-mwdwaa-laanf-llktrwny/",
-            "title": "نظم نادي التربية على المواطنة بالمؤسسة لقاء تحسيسيا وورشات حول موضوع العنف الالكتروني",
-            "summary": " بتنسيق مع فدرالية رابطة حقوق النساء و المركب الاجتماعي هاجر و مندوبية التعاون الوطني نظم نادي التربية على المواطنة بالمؤسسة لقاء تحسيسيا وورشات حول موضوع العنف الالكتروني بين الابتزاز و التشهير وذلك يوم الخميس 23 دجنبر 2021 على الساعة العاشرة صباحا لفائدة تلميذات المؤسسة.&nbsp;&hellip;",
-            "content_html": "\n  <p class=\"align-right\">\n    بتنسيق مع فدرالية رابطة حقوق النساء و المركب الاجتماعي هاجر و مندوبية التعاون الوطني نظم نادي التربية على المواطنة بالمؤسسة لقاء تحسيسيا  وورشات  حول موضوع العنف الالكتروني بين الابتزاز و التشهير وذلك يوم الخميس 23 دجنبر 2021 على الساعة العاشرة صباحا لفائدة تلميذات المؤسسة.&nbsp;<br>\n  </p>",
-            "image": "https://lycee-hassanibntabit.ml/media/posts/3/269688337_448679766722430_3504533919976812773_n.jpg",
-            "author": {
-                "name": "Anas Matrouf"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-02-10T02:37:05+01:00",
-            "date_modified": "2022-02-10T02:37:05+01:00"
-        },
-        {
-            "id": "https://lycee-hassanibntabit.ml/ttbyth-sbwrtyn-tfaalytyn-wtzwydhm-blntrnyt/",
-            "url": "https://lycee-hassanibntabit.ml/ttbyth-sbwrtyn-tfaalytyn-wtzwydhm-blntrnyt/",
-            "title": "تتبيث سبورتين تفاعليتين وتزويدهما بالانترنيت",
-            "summary": " تنزيلا لمقتضيات القانون الاطار خاصة في ما يتعلق بتجويد العرض المدرسي وتفعيلا لمشروع المؤسسة المندمج الرامي الى الرفع من نسبة النجاح وجعل المؤسسة فضاءا جذابا تم تتبيث سبورتين تفاعليتين وتزويدهما بالانترنيت ليصل عدد السبورات التفاعلية لحد الان الى اربع سبورات تفاعلية في افق تغطية&hellip;",
-            "content_html": "\n  <p class=\"align-right\">\n    تنزيلا لمقتضيات القانون الاطار خاصة في ما يتعلق بتجويد العرض المدرسي وتفعيلا لمشروع المؤسسة المندمج الرامي الى الرفع من نسبة النجاح وجعل المؤسسة فضاءا جذابا تم تتبيث سبورتين تفاعليتين وتزويدهما بالانترنيت ليصل عدد السبورات التفاعلية لحد الان الى اربع سبورات تفاعلية في افق تغطية جميع الاقسام بالثانوية التأهيلية حسان بن ثابت بالمديرية الاقليمية سيدي البرنوصي.الشكر موصول الى جميع الاطر التربوية و الادارية وشركاء المؤسسة على انخراطهم التام في تحسين جودة الخدمات التي تقدمها المؤسسة&nbsp;<br>\n  </p>\n\n  <p>\n    \n  </p>",
-            "image": "https://lycee-hassanibntabit.ml/media/posts/2/269696281_446735173583556_2370824031654295452_n-2.jpg",
-            "author": {
-                "name": "Anas Matrouf"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-02-08T19:09:29+01:00",
-            "date_modified": "2022-02-09T14:26:23+01:00"
-        }
     ]
 }
